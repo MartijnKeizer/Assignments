@@ -7,3 +7,4 @@
 * [Assignment week 8](https://github.com/MartijnKeizer/Assignments/blob/master/assignment5.ipynb)
 
 * [Final assignment Python](https://github.com/MartijnKeizer/Assignments/blob/master/Final_Assignment_Python_1_students.ipynb)
+* [Final assignment R](https://github.com/MartijnKeizer/Assignments/blob/master/OECD_R_exam.ipynb)
